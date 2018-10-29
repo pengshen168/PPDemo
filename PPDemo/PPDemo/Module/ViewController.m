@@ -16,7 +16,12 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
+    
+    UILabel *lab = [UILabel labelWithTitle:@"ehfjk" font:XFont(24) textColor:XRandomColor backgroundColor:XRandomColor Frame:CGRectMake(50, 50, 200, 60)];
+    [lab changeAlignmentLeftAndRight];
+    [self.view addSubview:lab];
+    
 }
 
 
