@@ -8,8 +8,10 @@
 
 #import "ViewController.h"
 
+#import "MNNetworkTool.h"
 @interface ViewController ()
 
+@property (nonatomic, copy) UITextField *textField;
 @end
 
 @implementation ViewController
@@ -18,10 +20,13 @@
     [super viewDidLoad];
     
     
-    UILabel *lab = [UILabel labelWithTitle:@"ehfjk" font:XFont(24) textColor:XRandomColor backgroundColor:XRandomColor Frame:CGRectMake(50, 50, 200, 60)];
-    [lab changeAlignmentLeftAndRight];
-    [self.view addSubview:lab];
+
     
+
+
+    
+    
+
 }
 
 

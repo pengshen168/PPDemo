@@ -15,5 +15,26 @@ pod 'MBProgressHUD'
 pod 'MJRefresh'
 pod 'Masonry'
 
+pod 'Hyphenate' #环信
+
+pod 'YYModel'
+pod 'YYCache'
+pod 'YYCategory'
+pod 'YYWebImage'
+pod 'RTRootNavigationController'
+pod 'XHLaunchAd'
+
+
+
+
+#pod 'FreeStreamer', '~> 3.8.3'#音乐播放
+#pod 'ZFPlayer', '~> 2.1.6'
+#pod 'JKDataHelper'
+#pod 'SDCycleScrollView', '~> 1.75'
+#pod 'FreeStreamer', '~> 3.8.3'
+#pod 'ReactiveCocoa','~>2.5'
+#pod 'DZNEmptyDataSet','~>1.8.1'
+#pod 'FDFullscreenPopGesture','~>1.1'
+#pod 'LTNavigationBar','~>2.1.9'
 
 end
